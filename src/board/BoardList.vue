@@ -1,10 +1,7 @@
 <script setup>
-
-
 </script>
-
 <template>
-  <router-view></router-view>
+BOARDLIST
 </template>
 
 <style scoped>
