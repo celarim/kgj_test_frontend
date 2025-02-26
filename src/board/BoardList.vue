@@ -30,7 +30,15 @@ onMounted( async () => {
 
 </script>
 <template>
-    <h1>게시글 목록</h1>
+    <div style="display: flex;">
+        <h1>게시글 목록</h1>
+    </div>
+    <div>
+        <RouterLink to="/board/create">
+            <h4>게시글 작성하러 가기</h4>
+
+        </RouterLink>
+    </div>
     <div>
         <table border="1">
             <thead>
