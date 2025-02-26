@@ -1,8 +1,12 @@
 <script setup>
+
+
 </script>
 <template>
-BOARDDETAIL
+    BOARDDETAIL
 </template>
 
 <style scoped>
+
+
 </style>
